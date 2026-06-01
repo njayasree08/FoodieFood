@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF1A1A1A</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#FF4B2B</color> <!-- Modern Vibrant Red-Orange -->
+    <color name="primaryVariant">#D43D1F</color>
+    <color name="secondaryColor">#FFD4C2</color>
+    <color name="gray_light">#F5F5F7</color>
+    <color name="gray_medium">#8E8E93</color>
+    <color name="gray_dark">#3A3A3C</color>
+    <color name="accent_gold">#FFD700</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="color_green">#8BC34A</color>
+</resources>
