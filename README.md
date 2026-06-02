@@ -13,13 +13,13 @@ d) EFFECTIVE PROMOTIONAL CAMPAIGN: Promotions and discounts play a pivotal role 
  
 f) TRUST AND ACCURATE INFORMATION: Building and maintaining trust with consumers is essential for long-term success in the OFD ecosystem. Providing accurate information about menu items, pricing, delivery times, and availability fosters trust between consumers and both the platform and the restaurant. Additionally, cooperation between vendors and app operators to ensure consistent service delivery is vital for maintaining customer loyalty. The rise of OFD platforms has fundamentally reshaped consumer preferences in the food industry, emphasizing convenience, variety, and speed as primary motivators. These shifts have required food businesses to adapt their operational strategies to align with evolving customer expectations. By focusing on food quality, competitive pricing, and service excellence, food businesses can navigate the challenges posed by OFD services while leveraging the opportunities for growth and customer engagement.
 
-<img width="500" height="500" alt="Screenshot_20260602_203449 1" src="https://github.com/user-attachments/assets/47cc7b34-56ee-409c-89df-520b7361f55a" />
-<img width="500" height="500" alt="Screenshot_20260602_203510 1" src="https://github.com/user-attachments/assets/4690ddd3-fdc9-4f10-bfa6-fc6d1ab3cc81" />
-<img width="500" height="500" alt="Screenshot_20260602_203531 1" src="https://github.com/user-attachments/assets/527271ca-f6c7-42db-989f-10f3b757a6a6" />
-<img width="500" height="500" alt="Screenshot_20260602_203541 1" src="https://github.com/user-attachments/assets/cded7321-45df-4663-83d0-c2f802dd6121" />
-<img width="500" height="500" alt="Screenshot_20260602_203556 1" src="https://github.com/user-attachments/assets/ff84f4b4-593f-4670-9b4b-66963196d9d2" />
-<img width="500" height="500" alt="Screenshot_20260602_203617 1" src="https://github.com/user-attachments/assets/deb8216a-8af3-44ba-a70e-135638dbdc7e" />
-<img width="500" height="500" alt="Screenshot_20260602_203620 1" src="https://github.com/user-attachments/assets/71bbd38f-b5cf-47c0-900b-9ad967bd4100" />
-<img width="500" height="500" alt="Screenshot_20260602_203637 1" src="https://github.com/user-attachments/assets/e1b80a02-85a2-4acf-ad6d-abf8e98bce32" />
-<img width="500" height="500" alt="Screenshot_20260602_203637 1" src="https://github.com/user-attachments/assets/77ddf444-105d-4cad-8423-a7f333a297cf" />
-<img width="500" height="500" alt="Screenshot_20260602_210842 1" src="https://github.com/user-attachments/assets/4307484a-6c9d-4890-905d-7f3675644224" />
+<img width="300" height="700" alt="Screenshot_20260602_203449 1" src="https://github.com/user-attachments/assets/47cc7b34-56ee-409c-89df-520b7361f55a" />
+<img width="300" height="700" alt="Screenshot_20260602_203510 1" src="https://github.com/user-attachments/assets/4690ddd3-fdc9-4f10-bfa6-fc6d1ab3cc81" />
+<img width="300" height="700" alt="Screenshot_20260602_203531 1" src="https://github.com/user-attachments/assets/527271ca-f6c7-42db-989f-10f3b757a6a6" />
+<img width="300" height="500" alt="Screenshot_20260602_203541 1" src="https://github.com/user-attachments/assets/cded7321-45df-4663-83d0-c2f802dd6121" />
+<img width="300" height="700" alt="Screenshot_20260602_203556 1" src="https://github.com/user-attachments/assets/ff84f4b4-593f-4670-9b4b-66963196d9d2" />
+<img width="300" height="700" alt="Screenshot_20260602_203617 1" src="https://github.com/user-attachments/assets/deb8216a-8af3-44ba-a70e-135638dbdc7e" />
+<img width="300" height="700" alt="Screenshot_20260602_203620 1" src="https://github.com/user-attachments/assets/71bbd38f-b5cf-47c0-900b-9ad967bd4100" />
+<img width="300" height="700" alt="Screenshot_20260602_203637 1" src="https://github.com/user-attachments/assets/e1b80a02-85a2-4acf-ad6d-abf8e98bce32" />
+<img width="300" height="700" alt="Screenshot_20260602_203637 1" src="https://github.com/user-attachments/assets/77ddf444-105d-4cad-8423-a7f333a297cf" />
+<img width="300" height="700" alt="Screenshot_20260602_210842 1" src="https://github.com/user-attachments/assets/4307484a-6c9d-4890-905d-7f3675644224" />
